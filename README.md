@@ -3,6 +3,9 @@
 
 Run these files in this sequence:
 
+
 1. Robot Moving and Sensing
+
 2. Omega and Xi, Constraints
+
 3. Landmark Detection and Tracking 
