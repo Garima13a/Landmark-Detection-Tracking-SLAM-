@@ -9,3 +9,5 @@ Run these files in this sequence:
 2. Omega and Xi, Constraints
 
 3. Landmark Detection and Tracking 
+
+Please refer to my blog for more detailed explanation: https://garimanishad.medium.com/everything-you-need-to-know-about-graph-slam-7f6f567f1a31
