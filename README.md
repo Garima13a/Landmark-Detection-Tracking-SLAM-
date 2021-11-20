@@ -10,4 +10,9 @@ Run these files in this sequence:
 
 3. Landmark Detection and Tracking 
 
+
 Please refer to my blog for more detailed explanation: https://garimanishad.medium.com/everything-you-need-to-know-about-graph-slam-7f6f567f1a31
+
+LinkedIn: https://www.linkedin.com/in/garima-nishad-9b8385134/
+
+Follow me on Twitter: https://twitter.com/garima__nishad
